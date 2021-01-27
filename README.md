@@ -4,7 +4,6 @@
 
 
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning web development
 - 👯 I’m looking to collaborate to web development (node and react)
 - 🤔 I’m looking for help with javascript 
