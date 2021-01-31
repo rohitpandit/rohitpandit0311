@@ -8,5 +8,5 @@
 - 👯 I’m looking to collaborate to web development (node and react)
 - 🤔 I’m looking for help with javascript 
 - 💬 Ask me about MERN 
-- 📫 How to reach me: rohtpandit0311@outlook.com
+- 📫 How to reach me: roht0311@outlook.com
 
