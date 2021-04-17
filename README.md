@@ -2,10 +2,10 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rohitpandit0311&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohitpandit0311&count_private=true)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitpandit0311&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
